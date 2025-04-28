@@ -1,0 +1,8 @@
+---
+library: false
+warnOnImplicitThis: false
+compileForOverlayEval: false
+name: querytemplate-queries
+version: 0.0.1
+dependencies:
+  codeql/cpp-all: ^4.2.0
